@@ -7,7 +7,7 @@ use warnings;
 
 #-------------------------------------------------------------------------------
 
-our $VERSION = '0.001'; # VERSION
+our $VERSION = '0.002'; # VERSION
 
 #-------------------------------------------------------------------------------
 1;
@@ -26,7 +26,7 @@ Task::Pinto - All the Pinto components in one shot
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 DESCRIPTION
 
@@ -45,7 +45,7 @@ created your own Pinto plugin, let me know so that I can add it here.
 
 =head2 L<Pinto::Server>
 
-=head2 L<Dist::Zilla::Plugin::ReleaseToPinto>
+=head2 L<Dist::Zilla::Plugin::Pinto::Add>
 
 =head1 SUPPORT
 

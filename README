@@ -2,7 +2,7 @@ NAME
     Task::Pinto - All the Pinto components in one shot
 
 VERSION
-    version 0.001
+    version 0.002
 
 DESCRIPTION
     This Task installs all the Pinto components in one shot. If you have
@@ -14,7 +14,7 @@ CONTENTS
   Pinto::Remote
   App::Pinto::Remote
   Pinto::Server
-  Dist::Zilla::Plugin::ReleaseToPinto
+  Dist::Zilla::Plugin::Pinto::Add
 SUPPORT
   Perldoc
     You can find documentation for this module with the perldoc command.

@@ -25,7 +25,7 @@ no_index:
 provides:
   Task::Pinto:
     file: lib/Task/Pinto.pm
-    version: 0.001
+    version: 0.002
 requires:
   App::Pinto::Admin: 0
   App::Pinto::Remote: 0
@@ -37,4 +37,4 @@ requires:
 resources:
   bugtracker: https://github.com/thaljef/Task-Pinto/issues
   repository: git://github.com/thaljef/Task-Pinto.git
-version: 0.001
+version: 0.002

@@ -54,7 +54,7 @@
    "provides" : {
       "Task::Pinto" : {
          "file" : "lib/Task/Pinto.pm",
-         "version" : "0.001"
+         "version" : "0.002"
       }
    },
    "release_status" : "stable",
@@ -68,6 +68,6 @@
          "web" : "https://github.com/thaljef/Task-Pinto"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
 
