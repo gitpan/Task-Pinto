@@ -2,7 +2,7 @@ NAME
     Task::Pinto - All the Pinto components in one shot
 
 VERSION
-    version 0.002
+    version 0.003
 
 DESCRIPTION
     This Task installs all the Pinto components in one shot. If you have
@@ -10,10 +10,9 @@ DESCRIPTION
 
 CONTENTS
   Pinto
-  App::Pinto::Admin
   Pinto::Remote
-  App::Pinto::Remote
   Pinto::Server
+  App::Pinto
   Dist::Zilla::Plugin::Pinto::Add
 SUPPORT
   Perldoc
@@ -55,8 +54,8 @@ SUPPORT
 
     *   CPAN Testers Matrix
 
-        The CPAN Testers Matrix is a website that provides a visual way to
-        determine what Perls/platforms PASSed for a distribution.
+        The CPAN Testers Matrix is a website that provides a visual overview
+        of the test results for a distribution on various Perls/platforms.
 
         <http://matrix.cpantesters.org/?dist=Task-Pinto>
 
